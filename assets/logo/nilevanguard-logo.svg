@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title">
+<title id="title">NileVanguard Consultants</title>
+<path d="M20 112V29h17l40 51 40-51h17v83h-22V63L77 108 42 63v49z" fill="#102747"/>
+<path d="M101 112L151 29h24l-50 83z" fill="#1769AA"/>
+<path d="M16 104C62 111 83 57 133 54c21-1 35 10 45 22-33-10-57 7-82 28-31 26-59 20-80 0z" fill="#D6B65D"/>
+<path d="M18 111c44 13 73-29 101-42 24-11 42-3 58 9-30-4-49 12-72 31-33 28-66 19-87 2z" fill="#1769AA"/>
+<rect x="161" y="12" width="9" height="9" fill="#D6B65D"/><rect x="175" y="24" width="7" height="7" fill="#1769AA"/><rect x="150" y="25" width="7" height="7" fill="#1769AA"/><rect x="165" y="38" width="6" height="6" fill="#D6B65D"/>
+<text x="205" y="76" font-family="Arial,sans-serif" font-size="49" font-weight="700" fill="#102747">NileVanguard</text>
+<text x="208" y="111" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="8" fill="#1769AA">CONSULTANTS</text>
+<path d="M208 124H592" stroke="#D6B65D" stroke-width="2"/>
+</svg>
